@@ -1,6 +1,6 @@
 # 📊 HR Data Pipeline & Attrition Risk Modeling
 
-📖 **[Read the Full Interactive Case Study on My Notion Portfolio]([(https://whispering-crater-183.notion.site/Project-HR-Data-Automation-Attrition-Risk-Modeling-using-Excel-314e54702f0b80cb9ec1d0ec671cea52?source=copy_link))**
+📖 **[Read the Full Interactive Case Study on My Notion Portfolio](https://whispering-crater-183.notion.site/Project-HR-Data-Automation-Attrition-Risk-Modeling-using-Excel-314e54702f0b80cb9ec1d0ec671cea52?source=copy_link)**
 
 ## 🎯 Project Overview
 This project focuses on automating HR data preparation and building a predictive logic model entirely within Microsoft Excel. The objective was to clean, consolidate, and analyze fragmented HR datasets and Training Needs Analysis (TNA) survey responses for over 1,100 employees to proactively identify flight risks.
@@ -66,4 +66,4 @@ Instead of writing a single convoluted formula, I utilized modular boolean flags
 * **Process Automation:** Streamlined operations by replacing manual cross-referencing across 1,100+ records with an instant, automated lookup and logic dashboard, drastically reducing the potential for human error.
 
 For a visual walkthrough of the dashboard and a deeper dive into the business context, please visit
-📖 **[the Full Interactive Case Study on My Notion Portfolio]([(https://whispering-crater-183.notion.site/Project-HR-Data-Automation-Attrition-Risk-Modeling-using-Excel-314e54702f0b80cb9ec1d0ec671cea52?source=copy_link))**
+📖 **[the Full Interactive Case Study on My Notion Portfolio](https://whispering-crater-183.notion.site/Project-HR-Data-Automation-Attrition-Risk-Modeling-using-Excel-314e54702f0b80cb9ec1d0ec671cea52?source=copy_link)**
