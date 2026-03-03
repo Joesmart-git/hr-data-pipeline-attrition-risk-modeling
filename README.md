@@ -62,7 +62,7 @@ Instead of writing a single convoluted formula, I utilized modular boolean flags
 ```
 
 ## 📂 Repository Structure
-* [📁 /01_Raw_Data and Excel_Model](./01_Raw_Data) - Contains the fragmented HR datasets and unstructured TNA survey responses and the master Excel workbook with automated ETL pipelines and the Attrition Risk Dashboard.
+* [📁 /01_Raw_Data and Excel_Model](./01_Raw_Data_&_Ecxcel_Model) - Contains the fragmented HR datasets and unstructured TNA survey responses and the master Excel workbook with automated ETL pipelines and the Attrition Risk Dashboard.
 
 ---
 *If you are a recruiter or hiring manager, please visit the **[Notion Case Study](https://whispering-crater-183.notion.site/Project-HR-Data-Automation-Attrition-Risk-Modeling-using-Excel-314e54702f0b80cb9ec1d0ec671cea52?source=copy_link)** for a visual walkthrough of the dashboard and a deeper dive into the business context.*
